@@ -1,0 +1,84 @@
+
+
+## 服务条款 / Terms of Service
+
+**最后更新日期：2026年5月13日**
+
+### 1. 接受条款 (Acceptance of Terms)
+
+下载、安装或使用《WriteChinese》（以下简称“本应用”）即表示您同意受本服务条款的约束。
+
+### 2. 应用许可 (License)
+
+我们授予您有限的、非排他性的、不可转让的许可，允许您在您拥有或控制的 iOS 设备上使用本应用进行个人汉字书写练习及非商业用途的使用。
+
+### 3. 用户数据与隐私 (User Data & Privacy)
+
+* **无需账户：** 您无需注册即可使用全部功能。
+* **本地处理：** 您的书写轨迹、AI 评分结果及练习进度均存储在您的设备本地。
+* **完全控制：** 您可以随时通过删除应用来清除所有本地练习数据。
+
+### 4. 应用功能说明 (Application Features)
+
+**基础功能 (Standard Features)：**
+
+* 基础汉字临摹与书写练习。
+* **本地 AI 实时打分**（基于设备端机器学习技术）。
+* 书写轨迹回放与正姿参考。
+* 完全离线运行，无需互联网连接。
+
+**高级版功能（一次性买断解锁 - Premium Features）：**
+
+* 解锁全部字库（包括常用字表、生字表、书法名帖等）。
+* 高级书写分析报告（笔画顺序、间架结构多维度评分）。
+* 书写作品导出为高清图片。
+* 无广告、无干扰的纯净练习环境。
+
+### 5. 购买与付款 (Purchases & Payments)
+
+* **5.1 模式：** 本应用采用“一次性买断制”。无订阅、无自动续费、无隐藏扣费。
+* **5.2 交易：** 所有内购通过 Apple App Store 处理。我们使用 RevenueCat SDK 仅用于验证匿名购买凭证，不获取您的个人支付信息。
+
+### 6. 知识产权 (Intellectual Property)
+
+本应用内提供的字帖数据、AI 打分算法、界面设计及教学内容的知识产权归我们所有。您通过本应用创作的书写作品，其所有权归您个人所有，但您不得将本应用的内置资源用于二次分发或商业销售。
+
+### 7. 免责声明 (Disclaimer)
+
+* **练习建议：** 本应用提供的 AI 打分仅供书写练习参考，不代表任何官方书法等级考试的评定结果。
+* **技术限制：** 尽管我们努力优化 AI 算法，但在不同设备性能或不同触控笔（如 Apple Pencil）下，评分感官可能存在细微差异。
+* **按现状提供：** 应用按“现状”提供，不提供任何关于特定学习效果的暗示保证。
+
+### 8. 责任限制 (Limitation of Liability)
+
+在法律允许范围内，对于因使用或无法使用本应用而产生的任何直接或间接损失，我们不承担赔偿责任。
+
+### 9. 条款变更 (Changes to Terms)
+
+我们保留随时修改本条款的权利。重大变更将通过 App Store 版本更新说明或应用内公告告知。
+
+### 10. 联系方式 (Contact)
+
+若有关于内购恢复或功能建议的疑问，请联系：
+📧 **710354687@qq.com**
+
+---
+
+## Terms of Service (English Version)
+
+**Last Updated: May 13, 2026**
+
+1. **Acceptance:** By using **WriteChinese**, you agree to these terms.
+2. **License:** Limited, personal, non-commercial use on your iOS devices.
+3. **Local First:** No accounts required. Your writing strokes and AI scores stay on your device.
+4. **Features:**
+* *Standard:* Basic tracing, real-time On-Device AI scoring, and offline mode.
+* *Premium (One-time Purchase):* Full character library, advanced stroke analysis, image export, and ad-free experience.
+
+
+5. **Payment:** One-time purchase model only. No subscriptions. Transactions are handled via Apple App Store.
+6. **Intellectual Property:** We own the app's code, AI algorithms, and assets. You own the handwriting images you create.
+7. **Disclaimer:** AI scores are for practice reference only and do not constitute official calligraphy certification.
+8. **Contact:** 710354687@qq.com
+
+---
